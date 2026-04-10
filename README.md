@@ -50,5 +50,9 @@ Conclusión
 
 El diseño no es complejo, pero cumple con lo más importante, que funcione bien y sea fácil de usar, nuestra prioridad es que no sea un diseño el cual agote la vista del usuario.
 
+El sistema funciona de la siguiente manera: 
 
+el administrador inicia sesión con las claves asignadas por el administrador de la base de datos. Este administrador tiene el poder de realizar las siguientes acciones dentro del sistema: visualizar datos de ventas semanales, eficiencia del taller, trabajos en curso, vehículos ingresados el día actual y sus estados añadir clientes a la base de datos, así como descargarlos o editarlos; lo mismo aplica para las órdenes.
+
+Este sistema es únicamente administrativo, por lo cual no manejamos procesadores de pago. El display de dinero es únicamente estadístico, ingresado por los usuarios administrativos por lo tanto, el área de finanzas y los administradores del programa deben rendir cuentas para los pagos.
 
